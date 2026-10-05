@@ -1,0 +1,9 @@
+{
+  "name": "truetone-demo",
+  "installCommand": "",
+  "buildCommand": "",
+  "assets": {
+    "directory": "./",
+    "notFoundStrategy": "singlePageApplication"
+  }
+}

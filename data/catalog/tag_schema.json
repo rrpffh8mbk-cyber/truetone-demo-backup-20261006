@@ -1,0 +1,18 @@
+{
+  "version": "2026-10-05-v1",
+  "principle": "User profile labels and evidence-library labels must use the same vocabulary. Unknown is allowed and preferred over forced guessing.",
+  "fields": {
+    "lip": {"allowed": ["浅唇","中唇","深唇","不确定"],"user_collect": true,"evidence_tag": true},
+    "skin": {"allowed": ["白皙偏冷","白皙偏暖","自然黄调","自然中性","橄榄调","健康深肤","不确定"],"user_collect": true,"evidence_tag": true},
+    "makeup": {"allowed": ["素颜","淡妆","浓妆","不确定"],"user_collect": true,"evidence_tag": true},
+    "lighting": {"allowed": ["自然光","室内暖光","室内冷光","混合光","偏暗","过曝","不确定"],"user_collect": false,"evidence_tag": true},
+    "application": {"allowed": ["薄涂","正常涂","厚涂","不确定"],"user_collect": false,"evidence_tag": true},
+    "source_platform": {"allowed": ["小红书","淘宝","官方","其他"],"user_collect": false,"evidence_tag": true}
+  },
+  "confidence_policy": {
+    "high": "explicit text or clearly visible cue",
+    "medium": "supported by more than one cue",
+    "low": "weak single cue; keep out of personalized matching unless no better evidence",
+    "unknown": "do not infer"
+  }
+}

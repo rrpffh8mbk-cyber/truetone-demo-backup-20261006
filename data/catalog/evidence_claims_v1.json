@@ -1,0 +1,65 @@
+{
+ "version":"2026-10-05-v1",
+ "method":{
+  "counting":"within each product, exact duplicate texts are removed; only statements that can be conservatively classified as explicit support or explicit contradiction are counted",
+  "display_note":"counts are evidence summaries, not population estimates; ambiguous comments are excluded from the support/oppose numerator"
+ },
+ "products":{
+  "lancome-274":{
+   "dedup_text_records":708,
+   "claims":{
+    "yellow_skin":{
+     "label":"黄皮/黄黑皮是否适合","support_count":47,"oppose_count":4,
+     "support_examples":[
+      {"platform":"小红书","variant":"unknown/legacy","type":"正文","text":"兰蔻这支已经停产的菁纯镜面唇釉274真的是本黄皮天菜……涂上这个就会显得气色很好。"},
+      {"platform":"淘宝","variant":"cream","type":"问大家","text":"姐妹们，274黄皮涂着好看不？ — 可以。"}
+     ],
+     "oppose_examples":[
+      {"platform":"淘宝","variant":"cream_gift","type":"评价","text":"黄黑皮深唇很不适合，涂上感觉很荧光……"},
+      {"platform":"淘宝","variant":"intimatte","type":"问大家","text":"274适合黄皮深唇吗？ — 不适合。"}
+     ]
+    },
+    "deep_lip":{
+     "label":"深唇是否适合","support_count":14,"oppose_count":6,
+     "support_examples":[
+      {"platform":"淘宝","variant":"intimatte","type":"评价","text":"黄黑皮深唇这个颜色显白滋润，满意。"},
+      {"platform":"淘宝","variant":"cream_gift","type":"评价","text":"非常漂亮的颜色，黄皮深唇也适合，满意。"}
+     ],
+     "oppose_examples":[
+      {"platform":"小红书","variant":"unknown/legacy","type":"正文","text":"深唇慎重，估计会像涂了润唇油。"},
+      {"platform":"淘宝","variant":"intimatte","type":"评价","text":"上嘴是深玫红，有点显老气，也许是因为我是深唇。"}
+     ]
+    },
+    "bare_face":{
+     "label":"素颜是否适合","support_count":20,"oppose_count":2,
+     "support_examples":[
+      {"platform":"小红书","variant":"unknown","type":"评论","text":"很适合素颜呢。"},
+      {"platform":"淘宝","variant":"intimatte","type":"评价","text":"适合春夏的淡色，适合素颜。"}
+     ],
+     "oppose_examples":[
+      {"platform":"小红书","variant":"unknown/legacy","type":"正文","text":"浅奶茶调几乎融唇，素颜涂像没气色。"}
+     ]
+    }
+   },
+   "variant_model":{
+    "family_id":"lancome-274",
+    "taobao_variants":[
+     {"id":"cream","label":"黑管哑光 #274 奶茶裸","source_folder":"lancome_274_Cream"},
+     {"id":"cream_gift","label":"「声色」限定 #274 原声裸茶","source_folder":"lancome_274_Cream_gift"},
+     {"id":"intimatte","label":"粉金管唇膏 #274","source_folder":"lancome_274_Intimatte"}
+    ],
+    "xiaohongshu":{
+     "main_posts":9,
+     "explicit_lipglaze_or_mirror_posts":6,
+     "explicit_xiaomanyao_posts":1,
+     "no_clear_variant_posts":2,
+     "policy":"Do not force-map Xiaohongshu 274 posts to the three Taobao variants. Use them as family-level evidence unless the post itself provides a high-confidence version clue."
+    },
+    "cross_variant_example":{
+     "platform":"淘宝·粉金管问大家",
+     "text":"问题是“274适合黄皮吗？”，回答者却说“我买过274唇釉，一点都不合适”。这说明即使商品页版本明确，用户回答也可能引用另一个274产品。"
+    }
+   }
+  }
+ }
+}

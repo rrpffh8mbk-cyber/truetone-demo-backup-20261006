@@ -1,0 +1,34 @@
+{
+  "version": "2026-10-05-v1",
+  "method": "technical quality preselection; semantic/personal tags intentionally not guessed",
+  "products": {
+    "lancome-274": [
+      {"rank":1,"platform":"淘宝","oss_object_key":"Data_clean_taobao/lancome_274/lancome_274_Intimatte/lancome_274_Intimatte_P23/274_P23_1.jpg","candidate_score":96.1,"lighting_auto":"室内暖光/偏暖","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}},
+      {"rank":2,"platform":"淘宝","oss_object_key":"Data_clean_taobao/lancome_274/lancome_274_Intimatte/lancome_274_Intimatte_P23/274_P23_2.jpg","candidate_score":95.6,"lighting_auto":"室内暖光/偏暖","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}},
+      {"rank":3,"platform":"淘宝","oss_object_key":"Data_clean_taobao/lancome_274/lancome_274_Cream/lancome_274_Cream_P4/274_P4_1.jpg","candidate_score":92.4,"lighting_auto":"中性/自然光候选","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}},
+      {"rank":4,"platform":"淘宝","oss_object_key":"Data_clean_taobao/lancome_274/lancome_274_Cream_gift/lancome_274_Cream_gift_P5/274_P5_3.jpg","candidate_score":90.2,"lighting_auto":"室内暖光/偏暖","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}},
+      {"rank":5,"platform":"淘宝","oss_object_key":"Data_clean_taobao/lancome_274/lancome_274_Intimatte/lancome_274_Intimatte_P24/274_P24_2.jpg","candidate_score":89.9,"lighting_auto":"中性/自然光候选","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}}
+    ],
+    "lancome-275": [
+      {"rank":1,"platform":"小红书","oss_object_key":"Data-XHS/lancome-275/lancome-275-P6/lancome-275-P6.jpg","candidate_score":91.9,"lighting_auto":"室内暖光/偏暖","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}},
+      {"rank":2,"platform":"淘宝","oss_object_key":"Data_clean_taobao/lancome_275/lancome_275_P6/275_P6_1.jpg","candidate_score":90.0,"lighting_auto":"室内暖光/偏暖","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}},
+      {"rank":3,"platform":"小红书","oss_object_key":"Data-XHS/lancome-275/lancome-275-P3/lancome-275-P3-1.jpg","candidate_score":89.1,"lighting_auto":"中性/自然光候选","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}},
+      {"rank":4,"platform":"小红书","oss_object_key":"Data-XHS/lancome-275/lancome-275-P1/lancome-275-P1-4.jpg","candidate_score":88.7,"lighting_auto":"室内暖光/偏暖","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}},
+      {"rank":5,"platform":"小红书","oss_object_key":"Data-XHS/lancome-275/lancome-275-P1/lancome-275-P1-2.jpg","candidate_score":88.4,"lighting_auto":"室内暖光/偏暖","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}}
+    ],
+    "ysl-1936": [
+      {"rank":1,"platform":"小红书","oss_object_key":"Data-XHS/YSL-1936/YSL-1936-P9/YSL-1936-P9.jpg","candidate_score":96.0,"lighting_auto":"室内暖光/偏暖","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}},
+      {"rank":2,"platform":"淘宝","oss_object_key":"Data_clean_taobao/YSL_1936/YSL_1936_P3/1936_P3_1.jpg","candidate_score":87.2,"lighting_auto":"室内暖光/偏暖","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}},
+      {"rank":3,"platform":"淘宝","oss_object_key":"Data_clean_taobao/YSL_1936/YSL_1936_P5/1936_P5_3.jpg","candidate_score":86.4,"lighting_auto":"室内暖光/偏暖","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}},
+      {"rank":4,"platform":"淘宝","oss_object_key":"Data_clean_taobao/YSL_1936/YSL_1936_P5/1936_P5_2.jpg","candidate_score":84.6,"lighting_auto":"室内暖光/偏暖","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}},
+      {"rank":5,"platform":"淘宝","oss_object_key":"Data_clean_taobao/YSL_1936/YSL_1936_P7/1936_P7_1.jpg","candidate_score":84.1,"lighting_auto":"室内暖光/偏暖","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}}
+    ],
+    "ysl-610": [
+      {"rank":1,"platform":"淘宝","oss_object_key":"Data_clean_taobao/YSL_610/YSL_610_P11/610_P11_2.jpg","candidate_score":94.0,"lighting_auto":"室内暖光/偏暖","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}},
+      {"rank":2,"platform":"淘宝","oss_object_key":"Data_clean_taobao/YSL_610/YSL_610_P11/610_P11_1.jpg","candidate_score":92.7,"lighting_auto":"室内暖光/偏暖","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}},
+      {"rank":3,"platform":"小红书","oss_object_key":"Data-XHS/YSL-610/YSL-610-P6/YSL-610-P6.jpg","candidate_score":90.4,"lighting_auto":"室内暖光/偏暖","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}},
+      {"rank":4,"platform":"淘宝","oss_object_key":"Data_clean_taobao/YSL_610/YSL_610_P5/610_P5_2.jpg","candidate_score":88.3,"lighting_auto":"室内暖光/偏暖","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}},
+      {"rank":5,"platform":"淘宝","oss_object_key":"Data_clean_taobao/YSL_610/YSL_610_P13/610_P13_1.jpg","candidate_score":85.9,"lighting_auto":"室内暖光/偏暖","semantic_tags":{"lip":"不确定","skin":"不确定","makeup":"不确定","application":"不确定"}}
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "version": "2026-10-05-v1",
+  "storage_policy": {
+    "raw_media": "private_oss",
+    "github": "indexes_and_derived_metadata_only"
+  },
+  "oss": {
+    "xhs_prefix": "Data-XHS/",
+    "taobao_prefix": "Data_clean_taobao/"
+  },
+  "summary": {
+    "小红书": {
+      "files": 128,
+      "images": 52,
+      "videos": 29,
+      "text_or_tables": 4
+    },
+    "淘宝": {
+      "files": 222,
+      "images": 117,
+      "videos": 0,
+      "text_or_tables": 105
+    },
+    "by_product": {
+      "lancome-274": {
+        "raw_images": 84,
+        "decodable_images": 81,
+        "top_candidates": 20
+      },
+      "lancome-275": {
+        "raw_images": 26,
+        "decodable_images": 26,
+        "top_candidates": 20
+      },
+      "ysl-1936": {
+        "raw_images": 18,
+        "decodable_images": 18,
+        "top_candidates": 18
+      },
+      "ysl-610": {
+        "raw_images": 41,
+        "decodable_images": 34,
+        "top_candidates": 20
+      }
+    }
+  },
+  "products": {
+    "ysl-610": {
+      "xhs_files": 43,
+      "taobao_files": 43,
+      "images": 41,
+      "videos": 12,
+      "text_tables": 18,
+      "platforms": [
+        "小红书",
+        "淘宝"
+      ]
+    },
+    "ysl-1936": {
+      "xhs_files": 25,
+      "taobao_files": 20,
+      "images": 18,
+      "videos": 7,
+      "text_tables": 11,
+      "platforms": [
+        "小红书",
+        "淘宝"
+      ]
+    },
+    "lancome-274": {
+      "xhs_files": 39,
+      "taobao_files": 125,
+      "images": 84,
+      "videos": 7,
+      "text_tables": 61,
+      "platforms": [
+        "小红书",
+        "淘宝"
+      ]
+    },
+    "lancome-275": {
+      "xhs_files": 21,
+      "taobao_files": 34,
+      "images": 26,
+      "videos": 3,
+      "text_tables": 19,
+      "platforms": [
+        "小红书",
+        "淘宝"
+      ]
+    }
+  }
+}
